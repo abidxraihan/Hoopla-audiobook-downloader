@@ -1,5 +1,4 @@
-# Hoopla audiobook Downloader 
-This will let you download audiobooks (maybe even videos) from Hoopla Digital.
+Hoopla audiobook Downloader will let you download audiobooks (maybe even videos) from Hoopla Digital.
 
 1. download and install the latest python (i used 3.13.1)
 
@@ -15,4 +14,13 @@ or Install the requirements all at once by running `pip install -r requirements.
 	3.2 You will be asked to enter URL of the Audiobook https://www.hoopladigital.com/audiobook/the-man-who-disappeared-america-franz-kafka/16233840
 	
 5. if every runs smoothly you should find the audiobook in ..\hoopladownloaderng\FINISHED
-	
+
+
+![Image 1](https://github.com/user-attachments/assets/9fc0d82d-afc4-4c74-8f15-17ffe2fcd38a)
+Image 1
+![Image 2](https://github.com/user-attachments/assets/d51d89c8-c0da-4276-91fa-429544e2b90a)
+Image 2
+![Image 3](https://github.com/user-attachments/assets/15523c18-dc68-4f28-8a70-d74430d7b4e0)
+Image 3
+![Image 4](https://github.com/user-attachments/assets/8b09606d-302d-4cb4-b26a-7c52d6b66e66)
+Image 4
