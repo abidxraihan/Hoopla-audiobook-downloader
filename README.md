@@ -1,4 +1,4 @@
-Hoopla audiobook Downloader will let you download audiobooks (maybe even videos) from Hoopla Digital.
+Hoopla audiobook Downloader will let you download audiobooks (maybe even videos) from Hoopla Digital. Source (https://github.com/jo1gi/audiobook-dl/issues/70)
 
 1. download and install the latest python (i used 3.13.1)
 
